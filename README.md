@@ -1,4 +1,3 @@
-# thabomakhubele# Hi, I'm Thabo 👋
 
 # Hey, I’m Thabo 👋
 
