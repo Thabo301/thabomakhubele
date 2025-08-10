@@ -1,32 +1,29 @@
 # thabomakhubele# Hi, I'm Thabo 👋
 
-I’m an aspiring **Azure Cloud Administrator** with a passion for building, learning, and sharing cloud projects.  
-Currently **AZ-900 certified** and working towards my **AZ-104**, I focus on creating practical, hands-on solutions in Azure.
+# Hey, I’m Thabo 👋
+
+I’m learning and working my way into the world of **Azure Cloud Administration**.  
+Right now, I’ve got my **AZ-900** and I’m studying for the **AZ-104**.  
+
+Most of my free time is spent building small cloud projects — things like setting up Azure VMs, VNets, and storage — and figuring out ways to make them more secure, faster, and cheaper to run.
 
 ---
 
-## 🚀 What I Do
-- Build and document **Azure projects** (VMs, networking, storage, automation)
-- Practice for **Microsoft certifications**
-- Share my learning journey and tips
+## What you’ll find here
+- Azure lab projects I’ve built from scratch
+- Scripts and notes from my certification prep
+- My personal portfolio website → [thabomakhubel.cloud](https://thabomakhubel.cloud)
 
 ---
 
-## 📂 Featured Work
-- **Portfolio Website** → [thabomakhubel.cloud](https://thabomakhubel.cloud)  
-- **Azure Projects** → [View on GitHub](https://github.com/thabomakhubele?tab=repositories)
+## A few things I work with
+Azure (VMs, VNets, NSGs, Bastion, Storage)  
+PowerShell & Azure CLI  
+HTML, CSS, JavaScript  
+Microsoft 365 Admin tools
 
 ---
 
-## 🛠 Skills & Tools
-- **Azure Services**: VMs, VNets, NSGs, Bastion, Storage, Load Balancers  
-- **Automation**: PowerShell, Azure CLI  
-- **Web**: HTML, CSS, JavaScript  
-- **Other**: Microsoft 365 Administration
+## Let’s connect
+[LinkedIn](https://linkedin.com/in/thabomakhubele96) • [GitHub](https://github.com/Thabo301) • [Portfolio](https://thabomakhubel.cloud)
 
----
-
-## 📫 Let’s Connect
-- **LinkedIn** → [linkedin.com/in/thabomakhubele96](https://linkedin.com/in/thabomakhubele96)  
-- **GitHub** → [github.com/Thabo301](https://github.com/Thabo301)  
-- **Portfolio** → [thabomakhubel.cloud](https://thabomakhubel.cloud)
